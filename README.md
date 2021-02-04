@@ -15,7 +15,7 @@ The script scrap and save the data in two files.
 ## Code
   - Clone the repo.
   
-    ```git clone https://github.com/rowhitswami/All-NeurIPS-Papers-Scraper.git```
+    ```git clone https://github.com/jairajc/All-NeurIPS-Papers-Scraper.git```
   - Change the directory.
   
     ```cd All-NeurIPS-Papers-Scraper```
