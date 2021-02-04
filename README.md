@@ -46,8 +46,8 @@ Well, you can skip all the headache to run the script and grab the latest datase
 #### [All NeurIPS Papers (Updated) - Kaggle](https://www.kaggle.com/rowhitswami/nips-papers-1987-2019-updated)
 
 ## Author
--|
-[Jai Raj Choudhary](https://rohitswami.com/) |)
+
+[Jai Raj Choudhary](https://www.linkedin.com/in/jai-raj-choudhary-a6843a171/) 
 
 
 
