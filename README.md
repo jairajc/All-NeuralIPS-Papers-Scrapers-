@@ -12,33 +12,6 @@ The script scrap and save the data in two files.
 
 ![](https://i.imgur.com/IbIqlSR.png)
 
-## Code
-  - Clone the repo.
-  
-    ```git clone https://github.com/jairajc/All-NeurIPS-Papers-Scraper.git```
-  - Change the directory.
-  
-    ```cd All-NeurIPS-Papers-Scraper```
-## Usage
-**```scrap_neurIPS_papers.py [-h] [-start START_YEAR] [-end END_YEAR]```**
-
-```
-Script to scrap NeurIPS Papers
-optional arguments:
-  -h, --help         show this help message and exit
-  -start START_YEAR  The start year to scrap the papers
-  -end END_YEAR      The end year to scrap the papers
-  ```
-### Example
-  - Simply run script to scrap and save all the papers.
-  
-  ```python3 scrap_neurIPS_papers.py```
-  - You can specify the range of years in which you want to scrap the papers. Example:
-  
-  ```python3 scrap_neurIPS_papers.py -start=2002 -end=2010```
-  - Get the help
-  
-  ```python3 scrap_neurIPS_papers.py --help```
 
 ## Download the latest dataset
 Well, you can skip all the headache to run the script and grab the latest dataset from here. Show your support by upvoting the dataset. 😊
