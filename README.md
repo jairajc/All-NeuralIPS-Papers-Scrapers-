@@ -47,26 +47,11 @@ Well, you can skip all the headache to run the script and grab the latest datase
 
 ## Author
 
-[![Rohit Swami](https://avatars1.githubusercontent.com/u/16516296?v=3&s=144)](https://rohitswami.com/) |
+[![Jai Raj Choudhary](https://avatars1.githubusercontent.com/u/16516296?v=3&s=144)](https://rohitswami.com/) |
 -|
-[Rohit Swami](https://rohitswami.com/) |)
 
-## License
-[![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
 
-Copyright 2020 Rohit Swami
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 
 ## Credit
 Data collection would not have been possible without [https://nips.cc](https://nips.cc). A huge thanks to **NeurIPS** for making the data public.
